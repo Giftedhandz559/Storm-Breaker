@@ -1,5 +1,7 @@
-<h1 align="center">
-  <br>
+root@kali:~# cd /opt
+root@kali:/opt# git clone https://github.com/ultrasecurity/Storm-Breaker.git<h1 align="center">
+rootkali:opt# ls
+<br>
   <a href="https://github.com/ultrasecurity/Storm-Breaker"><img src=".imgs/1demo.png" alt="StormBreaker"></a>
 
 </h1>
